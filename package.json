@@ -1,6 +1,7 @@
 {
   "name": "shopify-images",
   "version": "1.0.0",
+  "description": "A generic Javascript utility for Shopify's img_url filter",
   "main": "index.js",
   "author": "Luke Shumard <lukeshumard@gmail.com>",
   "license": "MIT",
@@ -10,5 +11,17 @@
   "devDependencies": {
     "chai": "^4.1.2",
     "mocha": "^5.2.0"
+  },
+  "repository": "git@github.com:lukeshumard/shopify-images.git",
+  "keywords": [
+    "shopify",
+    "img_url",
+    "size",
+    "image",
+    "filter"
+  ],
+  "homepage": "https://github.com/lukeshumard/shopify-images",
+  "bugs": {
+    "url": "https://github.com/lukeshumard/shopify-images/issues"
   }
 }
