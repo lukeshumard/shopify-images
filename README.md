@@ -29,7 +29,7 @@ ShopifyImage(imageSrc, options);
 
 Options should be passed as an object. Please see Shopify's [size parameters](https://help.shopify.com/en/themes/liquid/filters/url-filters#size-parameters) for documentation.
 
-** All Options **
+**All Options**
 ```javascript
 {
   size: '320x320',
